@@ -1,21 +1,18 @@
 #include <stdio.h>
-#include <stdlib.h>
-#include <time.h>
 /**
- *main- alphabet in lowercase
+ * main -pritn statement if the number is positive, ero, or negative
  *
- *Return: 0
+ * Description: using the main function
+ * this program prints "Programming is positive, zero, or negative"
+ * Return: 0
  */
 int main(void)
 {
-int n;
-srand(time(0));
-n = rand() - RAND_MAX / 2;
-{
 char ch;
-for (ch = 'a'; ch <= 'z', ch++;)
-putchar(ch);
-putchar('\n');
+for (ch = 'a' ; ch <= 'z' ; ch++)
+{
+	putchar(ch);
 }
+putchar('\n');
 return (0);
 }
