@@ -1,8 +1,8 @@
-#include <stdlib.h>
 #include <stdio.h>
+#include <stdlib.h>
 #include <time.h>
 /**
- *main-alphabet in lowercase
+ *main- alphabet in lowercase
  *
  *Return: 0
  */
