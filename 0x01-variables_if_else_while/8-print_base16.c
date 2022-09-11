@@ -11,7 +11,7 @@ for (c = 'o'; c <= '9'; c++)
 {
 	putchar(c);
 }
-for (c = 'a'; c <= 'f' ; c++)
+for (c = 'a'; c <= 'f'; c++)
 {
 	putchar(c);
 }
