@@ -1,8 +1,10 @@
 #include <stdio.h>
+
 /**
  * main - creates an infinite loop
  * Return: 0
  */
+
 int main(void)
 {
 	int i;
@@ -17,5 +19,6 @@ int main(void)
 	 * }
 	 */
 	printf("Infinite loop evaded! \\o/\n");
+
 	return (0);
 }
